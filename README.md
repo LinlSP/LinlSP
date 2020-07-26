@@ -9,6 +9,6 @@
  <pre>1) <a href='https://github.com/LinlSP/dizce'>Dizce</a> at <a href='https://dizce.com'>dizce.com</a><br/>2) <a href='https://github.com/LinlSP/dizce_company'>Dizce_Company</a> at <a href='https://admin.dizce.com'>admin.dizce.com</a> </pre> </h4> <br/>
 
 <h4>Currently aiming to:</h4>
-<pre>1) Become expert in ReactJS, NodeJS, and MongoDB<br/>3)Implement testing with Jest<br/>2) Practice more python<br/>3) Learn Russian</pre>
+<pre>1) Become expert in ReactJS, NodeJS, and MongoDB<br/>3) Implement testing with Jest<br/>2) Practice more python<br/>3) Learn Russian</pre>
 
 If you want to contact me, please use this e-mail: lincolsaenz2002@gmail.com
